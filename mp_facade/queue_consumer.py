@@ -13,6 +13,11 @@ class SimpleTask(object):
         
     def is_valid(self):
         return True
+    
+    def do_task(self):
+        time.sleep(self.estimated_processing_time)
+        self.result = str(self.ID) + " solved after " + str(self.estimated_processing_time)
+
 
 class WorkingProcessFacade(object):
     _console_mutex = None
@@ -21,8 +26,8 @@ class WorkingProcessFacade(object):
     _to_worker_queue = None
     _from_worker_queue = None
     _joined = None
-    _tasks_sent = []
-    _join_timeout = 5
+    _tasks_sent = None
+    _join_timeout = None
 
     def __init__(self):
         self._console_mutex = Lock()
@@ -33,9 +38,8 @@ class WorkingProcessFacade(object):
         self._process.start()
         self.print_mutexed("Worker Facade started ... ")
         self._joined = False
-
-    def __del__(self):
-        pass
+        self._tasks_sent = []
+        self._join_timeout = 5
 
     def print_mutexed(self, message):
         self._console_mutex.acquire()
@@ -49,6 +53,11 @@ class WorkingProcessFacade(object):
         if not task.is_valid():
             self.print_mutexed( "Task rejected: " + str(task.ID)  + ", is not valid")
             return False
+
+        for i in self._tasks_sent:
+            if i.ID == task.ID:
+                self.print_mutexed( "Task rejected: " + str(task.ID)  + ", ID exists in the task list")
+                return False
 
         self._queue_mutex.acquire()
         self._tasks_sent.append(task)
@@ -121,9 +130,8 @@ def process_queue(console_mutex, input_queue, output_queue):
     while task is not None:
         if task.ID.lower() == "crash": 
             raise Exception("freak out")
-        print_mutexed(console_mutex, "Received: " + str(task.ID))
-        time.sleep(task.estimated_processing_time)
-        task.result = str(task.ID) + " solved after " + str(task.estimated_processing_time)
+        print_mutexed(console_mutex, "Processing: " + str(task.ID))
+        task.do_task()
         output_queue.put(task)
         task = input_queue.get()
     

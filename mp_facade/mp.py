@@ -24,9 +24,8 @@ def test_worker_dies_but_master_keeps_sending():
     w.process_task(queue_consumer.SimpleTask("four", 2.5))
     tasks_result = w.collect_tasks()
 
-# Test calling collect and then sending another tasks
 
-if __name__ == "__main__":
+def several_calls_to_collect(): 
     w = queue_consumer.WorkingProcessFacade()
     w.process_task(queue_consumer.SimpleTask("one", 1.0))
     w.process_task(queue_consumer.SimpleTask("two", 2.5))
@@ -35,6 +34,19 @@ if __name__ == "__main__":
     w.process_task(queue_consumer.SimpleTask("two", 2.5))
     w.process_task(queue_consumer.SimpleTask("three", 2.5))
     w.process_task(queue_consumer.SimpleTask("four", 2.5))
+    tasks_result = w.collect_tasks()
+
+    for t in tasks_result:
+        print str(t.ID) + " - "+ str(t.result)
+
+# Test calling collect and then sending another tasks
+
+if __name__ == "__main__":
+    w = queue_consumer.WorkingProcessFacade()
+    w.process_task(queue_consumer.SimpleTask("one", 1.0))
+    w.process_task(queue_consumer.SimpleTask("two", 2.5))
+    # Verify the existence of the ID in the DDBB
+    w.process_task(queue_consumer.SimpleTask("two", 2.5))
     tasks_result = w.collect_tasks()
 
     for t in tasks_result:
