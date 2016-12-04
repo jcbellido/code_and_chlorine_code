@@ -1,0 +1,4 @@
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Portable\PhotoSharingApp.Portable.csproj;neutral
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Portable\PhotoSharingApp.Portable.csproj;neutral
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal.Tests\PhotoSharingApp.Universal.Tests.csproj;x86
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\PhotoSharingApp.Universal.csproj;x86

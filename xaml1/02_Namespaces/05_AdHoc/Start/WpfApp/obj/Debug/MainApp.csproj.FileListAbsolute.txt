@@ -1,0 +1,37 @@
+C:\Courseware\Xaml01\Prototypes\XamlNamespacesLib\WinApp\bin\Debug\MainApp.exe
+C:\Courseware\Xaml01\Prototypes\XamlNamespacesLib\WinApp\bin\Debug\MainApp.pdb
+C:\Courseware\Xaml01\Prototypes\XamlNamespacesLib\WinApp\bin\Debug\CoursewareLib.dll
+C:\Courseware\Xaml01\Prototypes\XamlNamespacesLib\WinApp\bin\Debug\CoursewareLib.pdb
+C:\Courseware\Xaml01\Prototypes\XamlNamespacesLib\WinApp\obj\Debug\MainApp.csprojResolveAssemblyReference.cache
+C:\Courseware\Xaml01\Prototypes\XamlNamespacesLib\WinApp\obj\Debug\Window1.baml
+C:\Courseware\Xaml01\Prototypes\XamlNamespacesLib\WinApp\obj\Debug\Window1.g.cs
+C:\Courseware\Xaml01\Prototypes\XamlNamespacesLib\WinApp\obj\Debug\App.g.cs
+C:\Courseware\Xaml01\Prototypes\XamlNamespacesLib\WinApp\obj\Debug\MainApp_MarkupCompile.cache
+C:\Courseware\Xaml01\Prototypes\XamlNamespacesLib\WinApp\obj\Debug\MainApp.g.resources
+C:\Courseware\Xaml01\Prototypes\XamlNamespacesLib\WinApp\obj\Debug\MainApp.Properties.Resources.resources
+C:\Courseware\Xaml01\Prototypes\XamlNamespacesLib\WinApp\obj\Debug\MainApp.csproj.GenerateResource.Cache
+C:\Courseware\Xaml01\Prototypes\XamlNamespacesLib\WinApp\obj\Debug\MainApp.exe
+C:\Courseware\Xaml01\Prototypes\XamlNamespacesLib\WinApp\obj\Debug\MainApp.pdb
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\WinApp\bin\Debug\MainApp.exe.config
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\WinApp\bin\Debug\MainApp.exe
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\WinApp\bin\Debug\MainApp.pdb
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\WinApp\obj\Debug\Window1.baml
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\WinApp\obj\Debug\Window1.g.cs
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\WinApp\obj\Debug\App.g.cs
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\WinApp\obj\Debug\MainApp_MarkupCompile.cache
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\WinApp\obj\Debug\MainApp.g.resources
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\WinApp\obj\Debug\MainApp.Properties.Resources.resources
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\WinApp\obj\Debug\MainApp.csproj.GenerateResource.Cache
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\WinApp\obj\Debug\MainApp.exe
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\WinApp\obj\Debug\MainApp.pdb
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\WinApp\obj\Debug\MainApp.csprojResolveAssemblyReference.cache
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\WinApp\bin\Debug\CoursewareGraphics.dll
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\WinApp\bin\Debug\CoursewareGraphics.pdb
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\WinApp\bin\Debug\CoursewareControls.dll
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\WinApp\bin\Debug\CoursewareControls.pdb
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\WpfApp\bin\Debug\MainApp.exe.config
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\WpfApp\obj\Debug\MainApp.exe
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\WpfApp\obj\Debug\MainApp.pdb
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\05_AdHoc\Start\WpfApp\bin\Debug\MainApp.exe.config
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\05_AdHoc\Start\WpfApp\obj\Debug\MainApp.exe
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\05_AdHoc\Start\WpfApp\obj\Debug\MainApp.pdb

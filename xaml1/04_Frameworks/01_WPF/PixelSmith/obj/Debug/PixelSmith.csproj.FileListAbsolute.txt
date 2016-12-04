@@ -1,0 +1,76 @@
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Start\PixelSmith\bin\Debug\PixelSmith.exe.config
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\bin\Debug\PixelSmith.exe.config
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\bin\Debug\ScatterPlot\ScatterPlotViz.exe
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\bin\Debug\PixelSmith.exe
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\bin\Debug\PixelSmith.pdb
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\obj\Debug\PixelSmith.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\obj\Debug\AboutView.baml
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\obj\Debug\AboutView.g.cs
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\obj\Debug\MainWindow.g.cs
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\obj\Debug\SplashWindow.g.cs
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\obj\Debug\UserControls\SplashBackground.g.cs
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\obj\Debug\UserControls\Star.g.cs
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\obj\Debug\App.g.cs
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\obj\Debug\PixelSmith_Content.g.cs
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\obj\Debug\PixelSmith_MarkupCompile.cache
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\obj\Debug\PixelSmith_MarkupCompile.lref
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\obj\Debug\App.baml
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\obj\Debug\MainWindow.baml
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\obj\Debug\SplashWindow.baml
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\obj\Debug\UserControls\SplashBackground.baml
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\obj\Debug\UserControls\Star.baml
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\obj\Debug\PixelSmith.g.resources
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\obj\Debug\PixelSmith.Properties.Resources.resources
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\obj\Debug\PixelSmith.csproj.GenerateResource.Cache
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\obj\Debug\PixelSmith.exe
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\obj\Debug\PixelSmith.pdb
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\obj\Debug\SelectImages.g.cs
+C:\Courseware\VS2015-ProjectTypes\Exercise Files\11_WpfTemplate\Done\PixelSmith\obj\Debug\SelectImages.baml
+C:\Courseware\VS2015-SourceControl\Exercise Files\ExistingProjects\PixelSmith\PixelSmith\bin\Debug\PixelSmith.exe.config
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\bin\Debug\PixelSmith.exe.config
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\bin\Debug\PixelSmith.exe
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\bin\Debug\PixelSmith.pdb
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\obj\Debug\PixelSmith.csprojResolveAssemblyReference.cache
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\obj\Debug\AboutView.baml
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\obj\Debug\AboutView.g.cs
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\obj\Debug\MainWindow.g.cs
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\obj\Debug\SelectImages.g.cs
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\obj\Debug\SplashWindow.g.cs
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\obj\Debug\UserControls\SplashBackground.g.cs
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\obj\Debug\UserControls\Star.g.cs
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\obj\Debug\App.g.cs
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\obj\Debug\PixelSmith_MarkupCompile.cache
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\obj\Debug\PixelSmith_MarkupCompile.lref
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\obj\Debug\App.baml
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\obj\Debug\MainWindow.baml
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\obj\Debug\SelectImages.baml
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\obj\Debug\SplashWindow.baml
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\obj\Debug\UserControls\SplashBackground.baml
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\obj\Debug\UserControls\Star.baml
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\obj\Debug\PixelSmith.g.resources
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\obj\Debug\PixelSmith.Properties.Resources.resources
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\obj\Debug\PixelSmith.csproj.GenerateResource.Cache
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\obj\Debug\PixelSmith.exe
+C:\Courseware\Assets\Apps\ExistingProjects\PixelSmith\PixelSmith\obj\Debug\PixelSmith.pdb
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\01_WPF\PixelSmith\bin\Debug\PixelSmith.exe.config
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\01_WPF\PixelSmith\obj\Debug\PixelSmith.exe
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\01_WPF\PixelSmith\obj\Debug\PixelSmith.pdb
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\01_WPF\PixelSmith\bin\Debug\PixelSmith.exe
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\01_WPF\PixelSmith\bin\Debug\PixelSmith.pdb
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\01_WPF\PixelSmith\obj\Debug\PixelSmith.csprojResolveAssemblyReference.cache
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\01_WPF\PixelSmith\obj\Debug\MainWindow.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\01_WPF\PixelSmith\obj\Debug\App.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\01_WPF\PixelSmith\obj\Debug\PixelSmith_MarkupCompile.cache
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\01_WPF\PixelSmith\obj\Debug\PixelSmith_MarkupCompile.lref
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\01_WPF\PixelSmith\obj\Debug\App.baml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\01_WPF\PixelSmith\obj\Debug\MainWindow.baml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\01_WPF\PixelSmith\obj\Debug\PixelSmith.g.resources
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\01_WPF\PixelSmith\obj\Debug\PixelSmith.Properties.Resources.resources
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\01_WPF\PixelSmith\obj\Debug\PixelSmith.csproj.GenerateResource.Cache
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\01_WPF\PixelSmith\bin\Debug\Images\Landscape.Watercolor.jpg
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\01_WPF\PixelSmith\bin\Debug\Images\Landscape.Watercolor.2.jpg
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\01_WPF\PixelSmith\obj\Debug\PixelSmith_Content.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\01_WPF\PixelSmith\obj\Debug\AboutWindow.baml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\01_WPF\PixelSmith\obj\Debug\AboutWindow.g.cs

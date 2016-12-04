@@ -1,0 +1,2 @@
+C:\Users\Walt\AppData\Local\Temporary Projects\WorkWithXamlTools\bin\Debug\WorkWithXamlTools.exe.config
+C:\Courseware\Xaml01\Exercise Files\01_XAML\03_WorkWithXamlTools\WorkWithXamlTools\bin\Debug\WorkWithXamlTools.exe.config

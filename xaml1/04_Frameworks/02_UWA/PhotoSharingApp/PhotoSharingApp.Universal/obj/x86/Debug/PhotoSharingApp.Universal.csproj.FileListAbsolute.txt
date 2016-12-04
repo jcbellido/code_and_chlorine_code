@@ -1,0 +1,784 @@
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\App.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Controls\AnimatedImage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Controls\FeaturedPhotoControl.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Controls\GoldPurchasePromptControl.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Controls\HeroImageControl.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Controls\LeaderboardsUserControl.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Controls\LeaderboardsPhotoControl.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Controls\LeaderboardsCategoryControl.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Controls\MyControl.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Controls\PageHeader.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Controls\SignInPromptControl.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Controls\UploadPhotoControl.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Controls\UserProfilePictureControl.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Styles\Styles.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\AboutPage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\AppShell.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\CameraPage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\CategoriesChooserDialog.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\CategoriesPage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\CreateCategoryDialog.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\CropPage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\DebugPage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\GiveGoldDialog.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\LeaderboardsPage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\ProfilePage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\PhotoDetailsPage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\SettingsPage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\SignInPage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\StreamPage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\UploadPage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\WelcomePage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\PhotoSharingApp.Universal.xr.xml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\PhotoSharingApp.Universal.exe
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\PhotoSharingApp.Universal.pdb
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\resources.pri
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\AppxManifest.xml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Core\AppxManifest.xml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Core\PhotoSharingApp.Universal.exe
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\PhotoSharingApp.Universal.build.appxrecipe
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.Xaml.Interactions.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.Data.Edm.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.Data.OData.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Net.Http.Extensions.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Net.Http.Primitives.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Core.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Net.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Numerics.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.ServiceModel.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Windows.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Xml.Linq.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Xml.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.AppContext.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Collections.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.ComponentModel.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Data.Common.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Globalization.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.IO.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.IO.Compression.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\ClrCompression.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Linq.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Net.Http.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Net.Primitives.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Net.Requests.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Net.Sockets.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.ObjectModel.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Private.Networking.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Private.Uri.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Reflection.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Reflection.Context.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Runtime.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Security.Claims.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Security.Principal.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Spatial.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\de\System.Spatial.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\es\System.Spatial.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\fr\System.Spatial.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\it\System.Spatial.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\ja\System.Spatial.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\ko\System.Spatial.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\ru\System.Spatial.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Text.Encoding.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Threading.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Threading.Timer.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.Practices.Unity.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.WindowsAzure.Messaging.Managed.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\PhotoSharingApp.Portable.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\PhotoSharingApp.Portable.pdb
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\PhotoSharingApp.Universal.csprojResolveAssemblyReference.cache
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\App.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\App.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\AnimatedImage.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\AnimatedImage.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\FeaturedPhotoControl.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\FeaturedPhotoControl.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\GoldPurchasePromptControl.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\GoldPurchasePromptControl.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\HeroImageControl.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\HeroImageControl.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\LeaderboardsUserControl.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\LeaderboardsUserControl.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\LeaderboardsPhotoControl.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\LeaderboardsPhotoControl.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\LeaderboardsCategoryControl.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\LeaderboardsCategoryControl.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\MyControl.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\MyControl.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\PageHeader.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\PageHeader.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\SignInPromptControl.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\SignInPromptControl.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\UploadPhotoControl.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\UploadPhotoControl.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\UserProfilePictureControl.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\UserProfilePictureControl.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\AboutPage.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\AboutPage.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\AppShell.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\AppShell.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CameraPage.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CameraPage.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CategoriesChooserDialog.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CategoriesChooserDialog.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CategoriesPage.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CategoriesPage.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CreateCategoryDialog.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CreateCategoryDialog.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CropPage.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CropPage.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\DebugPage.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\DebugPage.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\GiveGoldDialog.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\GiveGoldDialog.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\LeaderboardsPage.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\LeaderboardsPage.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\ProfilePage.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\ProfilePage.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\PhotoDetailsPage.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\PhotoDetailsPage.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\SettingsPage.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\SettingsPage.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\SignInPage.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\SignInPage.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\StreamPage.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\StreamPage.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\UploadPage.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\UploadPage.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\WelcomePage.g.i.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\WelcomePage.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\App.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\AnimatedImage.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\FeaturedPhotoControl.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\GoldPurchasePromptControl.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\HeroImageControl.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\LeaderboardsUserControl.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\LeaderboardsPhotoControl.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\LeaderboardsCategoryControl.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\MyControl.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\PageHeader.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\SignInPromptControl.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\UploadPhotoControl.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\UserProfilePictureControl.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Styles\Styles.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\AboutPage.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\AppShell.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CameraPage.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CategoriesChooserDialog.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CategoriesPage.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CreateCategoryDialog.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CropPage.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\DebugPage.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\GiveGoldDialog.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\LeaderboardsPage.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\ProfilePage.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\PhotoDetailsPage.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\SettingsPage.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\SignInPage.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\StreamPage.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\UploadPage.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\WelcomePage.xaml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\App.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\AnimatedImage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\FeaturedPhotoControl.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\GoldPurchasePromptControl.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\HeroImageControl.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\LeaderboardsUserControl.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\LeaderboardsPhotoControl.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\LeaderboardsCategoryControl.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\MyControl.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\PageHeader.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\SignInPromptControl.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\UploadPhotoControl.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\UserProfilePictureControl.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Styles\Styles.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\AboutPage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\AppShell.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CameraPage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CategoriesChooserDialog.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CategoriesPage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CreateCategoryDialog.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CropPage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\DebugPage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\GiveGoldDialog.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\LeaderboardsPage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\ProfilePage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\PhotoDetailsPage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\SettingsPage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\SignInPage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\StreamPage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\UploadPage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\WelcomePage.xbf
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\PhotoSharingApp.Universal.exe
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\PhotoSharingApp.Universal.pdb
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\ResourceHandlingTask.state
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\System.Spatial\en-US\System.Spatial.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Microsoft.Practices.Unity\en\Microsoft.Practices.Unity.Properties.Resources.resw
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\PhotoSharingApp.Universal.csproj.GenerateResource.Cache
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\priconfig.xml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\priconfig.xml.intermediate
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\layout.resfiles
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\layout.resfiles.intermediate
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\resources.resfiles
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\resources.resfiles.intermediate
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\pri.resfiles
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\pri.resfiles.intermediate
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\qualifiers.txt
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\resources.en-us.resfiles
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\resources.en-us.resfiles.intermediate
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.pri.xml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Microsoft.Practices.Unity.RegistrationByConvention.pri.xml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Microsoft.WindowsAzure.Messaging.Managed.pri.xml
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\ProjectArchitectures.txt
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\App.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Controls\AnimatedImage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Controls\FeaturedPhotoControl.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Controls\GoldPurchasePromptControl.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Controls\HeroImageControl.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Controls\LeaderboardsUserControl.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Controls\LeaderboardsPhotoControl.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Controls\LeaderboardsCategoryControl.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Controls\MyControl.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Controls\PageHeader.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Controls\SignInPromptControl.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Controls\UploadPhotoControl.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Controls\UserProfilePictureControl.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Styles\Styles.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\AboutPage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\AppShell.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\CameraPage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\CategoriesChooserDialog.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\CategoriesPage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\CreateCategoryDialog.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\CropPage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\DebugPage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\GiveGoldDialog.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\LeaderboardsPage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\ProfilePage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\PhotoDetailsPage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\SettingsPage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\SignInPage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\StreamPage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\UploadPage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Views\WelcomePage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\PhotoSharingApp.Universal.xr.xml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\PhotoSharingApp.Universal.exe
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\PhotoSharingApp.Universal.pdb
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\resources.pri
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\AppxManifest.xml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Core\AppxManifest.xml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Core\PhotoSharingApp.Universal.exe
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\PhotoSharingApp.Universal.build.appxrecipe
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.Xaml.Interactions.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.Data.Edm.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.Data.OData.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Net.Http.Extensions.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Net.Http.Primitives.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Core.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Net.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Numerics.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.ServiceModel.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Windows.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Xml.Linq.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Xml.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.AppContext.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Collections.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.ComponentModel.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Data.Common.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Globalization.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.IO.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.IO.Compression.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\ClrCompression.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Linq.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Net.Http.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Net.Primitives.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Net.Requests.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Net.Sockets.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.ObjectModel.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Private.Networking.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Private.Uri.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Reflection.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Reflection.Context.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Runtime.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Security.Claims.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Security.Principal.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Spatial.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\de\System.Spatial.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\es\System.Spatial.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\fr\System.Spatial.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\it\System.Spatial.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\ja\System.Spatial.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\ko\System.Spatial.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\ru\System.Spatial.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Text.Encoding.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Threading.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Threading.Timer.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.Practices.Unity.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.WindowsAzure.Messaging.Managed.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\PhotoSharingApp.Portable.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\bin\x86\Debug\PhotoSharingApp.Portable.pdb
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\PhotoSharingApp.Universal.csprojResolveAssemblyReference.cache
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\App.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\App.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\AnimatedImage.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\AnimatedImage.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\FeaturedPhotoControl.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\FeaturedPhotoControl.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\GoldPurchasePromptControl.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\GoldPurchasePromptControl.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\HeroImageControl.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\HeroImageControl.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\LeaderboardsUserControl.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\LeaderboardsUserControl.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\LeaderboardsPhotoControl.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\LeaderboardsPhotoControl.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\LeaderboardsCategoryControl.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\LeaderboardsCategoryControl.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\MyControl.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\MyControl.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\PageHeader.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\PageHeader.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\SignInPromptControl.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\SignInPromptControl.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\UploadPhotoControl.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\UploadPhotoControl.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\UserProfilePictureControl.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\UserProfilePictureControl.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\AboutPage.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\AboutPage.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\AppShell.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\AppShell.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CameraPage.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CameraPage.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CategoriesChooserDialog.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CategoriesChooserDialog.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CategoriesPage.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CategoriesPage.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CreateCategoryDialog.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CreateCategoryDialog.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CropPage.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CropPage.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\DebugPage.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\DebugPage.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\GiveGoldDialog.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\GiveGoldDialog.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\LeaderboardsPage.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\LeaderboardsPage.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\ProfilePage.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\ProfilePage.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\PhotoDetailsPage.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\PhotoDetailsPage.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\SettingsPage.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\SettingsPage.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\SignInPage.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\SignInPage.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\StreamPage.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\StreamPage.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\UploadPage.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\UploadPage.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\WelcomePage.g.i.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\WelcomePage.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Styles\Styles.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\App.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\AnimatedImage.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\FeaturedPhotoControl.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\GoldPurchasePromptControl.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\HeroImageControl.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\LeaderboardsUserControl.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\LeaderboardsPhotoControl.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\LeaderboardsCategoryControl.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\MyControl.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\PageHeader.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\SignInPromptControl.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\UploadPhotoControl.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\UserProfilePictureControl.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\AboutPage.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\AppShell.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CameraPage.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CategoriesChooserDialog.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CategoriesPage.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CreateCategoryDialog.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CropPage.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\DebugPage.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\GiveGoldDialog.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\LeaderboardsPage.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\ProfilePage.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\PhotoDetailsPage.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\SettingsPage.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\SignInPage.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\StreamPage.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\UploadPage.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\WelcomePage.xaml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Styles\Styles.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\App.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\AnimatedImage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\FeaturedPhotoControl.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\GoldPurchasePromptControl.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\HeroImageControl.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\LeaderboardsUserControl.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\LeaderboardsPhotoControl.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\LeaderboardsCategoryControl.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\MyControl.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\PageHeader.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\SignInPromptControl.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\UploadPhotoControl.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Controls\UserProfilePictureControl.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\AboutPage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\AppShell.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CameraPage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CategoriesChooserDialog.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CategoriesPage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CreateCategoryDialog.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\CropPage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\DebugPage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\GiveGoldDialog.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\LeaderboardsPage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\ProfilePage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\PhotoDetailsPage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\SettingsPage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\SignInPage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\StreamPage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\UploadPage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Views\WelcomePage.xbf
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\PhotoSharingApp.Universal.exe
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\PhotoSharingApp.Universal.pdb
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\ResourceHandlingTask.state
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\System.Spatial\en-US\System.Spatial.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Microsoft.Practices.Unity\en\Microsoft.Practices.Unity.Properties.Resources.resw
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\PhotoSharingApp.Universal.csproj.GenerateResource.Cache
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\priconfig.xml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\priconfig.xml.intermediate
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\layout.resfiles
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\layout.resfiles.intermediate
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\resources.resfiles
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\resources.resfiles.intermediate
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\pri.resfiles
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\pri.resfiles.intermediate
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\qualifiers.txt
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\resources.en-us.resfiles
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\resources.en-us.resfiles.intermediate
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.pri.xml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Microsoft.Practices.Unity.RegistrationByConvention.pri.xml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\Microsoft.WindowsAzure.Messaging.Managed.pri.xml
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\obj\x86\Debug\ProjectArchitectures.txt

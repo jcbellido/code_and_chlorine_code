@@ -1,0 +1,2 @@
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Portable\PhotoSharingApp.Portable.csproj;neutral
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Universal\PhotoSharingApp.Universal.csproj;x86

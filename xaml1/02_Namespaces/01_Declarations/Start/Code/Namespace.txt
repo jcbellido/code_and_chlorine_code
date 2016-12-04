@@ -1,0 +1,25 @@
+﻿A Namespace is a container for named items
+All the named items in the namespace must be unique 
+Each namespace has a unique name
+
+[Documents]
+  Title
+  Author
+  PageCount
+  
+
+[Movies]
+  Title
+  Producer
+  GrossSales
+
+[HealthDocuments]
+  EmployeeName
+  Department
+  DocumentType
+
+[XHTML]
+  head
+  body
+  div
+  img

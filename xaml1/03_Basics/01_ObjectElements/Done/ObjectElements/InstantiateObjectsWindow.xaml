@@ -1,0 +1,22 @@
+﻿<Window x:Class="ObjectElements.InstantiateObjects"
+				xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+				xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+				xmlns:local="clr-namespace:ObjectElements"
+				Title="InstantiateObjects">
+
+	<!-- there are two locations to instantiate object elements. -->
+	<Window.Content>
+		<!-- In the content section of a UIElement -->
+		<StackPanel>
+			<Ellipse />
+      <local:ClockFace />
+     
+		</StackPanel>
+
+	</Window.Content>
+	<Window.Resources>
+		<!-- In a resource dictionary -->
+		<local:Tour x:Key='tour1' />
+
+	</Window.Resources>
+</Window>

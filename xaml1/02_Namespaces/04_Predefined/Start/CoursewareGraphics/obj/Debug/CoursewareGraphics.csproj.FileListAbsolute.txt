@@ -1,0 +1,13 @@
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\CoursewareGraphics\obj\Debug\CoursewareGraphics.csprojResolveAssemblyReference.cache
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\CoursewareGraphics\obj\Debug\Controls\Octopod.g.cs
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\CoursewareGraphics\obj\Debug\Controls\WaterBackground.g.cs
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\CoursewareGraphics\obj\Debug\CoursewareGraphics_MarkupCompile.cache
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\CoursewareGraphics\obj\Debug\Controls\Octopod.baml
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\CoursewareGraphics\obj\Debug\Controls\WaterBackground.baml
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\CoursewareGraphics\obj\Debug\CoursewareGraphics.dll
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\CoursewareGraphics\obj\Debug\CoursewareGraphics.pdb
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\CoursewareGraphics\bin\Debug\CoursewareGraphics.dll
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\CoursewareGraphics\bin\Debug\CoursewareGraphics.pdb
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\CoursewareGraphics\obj\Debug\CoursewareGraphics.g.resources
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\CoursewareGraphics\obj\Debug\CoursewareGraphics.Properties.Resources.resources
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\CoursewareGraphics\obj\Debug\CoursewareGraphics.csproj.GenerateResource.Cache

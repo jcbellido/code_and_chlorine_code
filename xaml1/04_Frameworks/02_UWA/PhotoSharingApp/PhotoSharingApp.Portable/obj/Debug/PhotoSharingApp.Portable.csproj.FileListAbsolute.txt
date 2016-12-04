@@ -1,0 +1,10 @@
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Portable\bin\Debug\PhotoSharingApp.Portable.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Portable\bin\Debug\PhotoSharingApp.Portable.pdb
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Portable\obj\Debug\PhotoSharingApp.Portable.csprojResolveAssemblyReference.cache
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Portable\obj\Debug\PhotoSharingApp.Portable.dll
+C:\Courseware\Assets\Apps\Appsample-Photosharing-master\PhotoSharingApp\PhotoSharingApp.Portable\obj\Debug\PhotoSharingApp.Portable.pdb
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Portable\bin\Debug\PhotoSharingApp.Portable.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Portable\bin\Debug\PhotoSharingApp.Portable.pdb
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Portable\obj\Debug\PhotoSharingApp.Portable.csprojResolveAssemblyReference.cache
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Portable\obj\Debug\PhotoSharingApp.Portable.dll
+C:\Courseware\Xaml01\Exercise Files\04_Frameworks\02_UWA\PhotoSharingApp\PhotoSharingApp.Portable\obj\Debug\PhotoSharingApp.Portable.pdb

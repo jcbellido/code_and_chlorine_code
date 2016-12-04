@@ -1,0 +1,964 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.Interfaces>
+    <RootInterface FullName="Windows.UI.Xaml.Data.IValueConverter" />
+  </Roots.Interfaces>
+  <Roots.PropertyPathNames>
+    <RootPropertyPathName Name="PhotoSource" />
+    <RootPropertyPathName Name="GoldCount" />
+    <RootPropertyPathName Name="GiveGoldCommand" />
+    <RootPropertyPathName Name="CanGiveGold" />
+    <RootPropertyPathName Name="ImageUrl" />
+    <RootPropertyPathName Name="DataContext" />
+    <RootPropertyPathName Name="HeroImageSelectedCommand" />
+    <RootPropertyPathName Name="PhotoDetailsContainerMargin" />
+    <RootPropertyPathName Name="Caption" />
+    <RootPropertyPathName Name="CaptionFontSize" />
+    <RootPropertyPathName Name="User" />
+    <RootPropertyPathName Name="ProfilePictureUrl" />
+    <RootPropertyPathName Name="UserSelectedCommand" />
+    <RootPropertyPathName Name="BuyGoldCommand" />
+    <RootPropertyPathName Name="CurrentUser" />
+    <RootPropertyPathName Name="GoldBalance" />
+    <RootPropertyPathName Name="CreatedAt" />
+    <RootPropertyPathName Name="NavigationCommand" />
+    <RootPropertyPathName Name="UserEntry" />
+    <RootPropertyPathName Name="Model" />
+    <RootPropertyPathName Name="Value" />
+    <RootPropertyPathName Name="Rank" />
+    <RootPropertyPathName Name="PhotoEntry" />
+    <RootPropertyPathName Name="HighResolutionUrl" />
+    <RootPropertyPathName Name="CategoryEntry" />
+    <RootPropertyPathName Name="Name" />
+    <RootPropertyPathName Name="ViewModel" />
+    <RootPropertyPathName Name="IsDummyServiceEnabled" />
+    <RootPropertyPathName Name="VerticalContentAlignment" />
+    <RootPropertyPathName Name="HorizontalContentAlignment" />
+    <RootPropertyPathName Name="HeaderContent" />
+    <RootPropertyPathName Name="SignInCommand" />
+    <RootPropertyPathName Name="BrowsePicturesLibraryCommand" />
+    <RootPropertyPathName Name="TakePhotoCommand" />
+    <RootPropertyPathName Name="Source" />
+    <RootPropertyPathName Name="ShowBorder" />
+    <RootPropertyPathName Name="BottomRightCornerCanvasLeft" />
+    <RootPropertyPathName Name="BottomRightCornerCanvasTop" />
+    <RootPropertyPathName Name="TopLeftCornerCanvasLeft" />
+    <RootPropertyPathName Name="TopLeftCornerCanvasTop" />
+    <RootPropertyPathName Name="SelectedRect" />
+    <RootPropertyPathName Name="OuterRect" />
+    <RootPropertyPathName Name="AuthenticationProviders" />
+    <RootPropertyPathName Name="CopyUserIdToClipboardCommand" />
+    <RootPropertyPathName Name="UserId" />
+    <RootPropertyPathName Name="ServerVersion" />
+    <RootPropertyPathName Name="AssemblyVersion" />
+    <RootPropertyPathName Name="AppVersion" />
+    <RootPropertyPathName Name="Label" />
+    <RootPropertyPathName Name="Image" />
+    <RootPropertyPathName Name="SymbolAsChar" />
+    <RootPropertyPathName Name="IsPaneOpen" />
+    <RootPropertyPathName Name="BottomNavigationBarMenuItems" />
+    <RootPropertyPathName Name="NavigationBarMenuItems" />
+    <RootPropertyPathName Name="CanTakePhoto" />
+    <RootPropertyPathName Name="SwitchCameraCommand" />
+    <RootPropertyPathName Name="CameraEngine" />
+    <RootPropertyPathName Name="AreMultipleCamerasAvailable" />
+    <RootPropertyPathName Name="SwitchFlashCommand" />
+    <RootPropertyPathName Name="IsFlashSupported" />
+    <RootPropertyPathName Name="IsBusy" />
+    <RootPropertyPathName Name="OpenPictureCommand" />
+    <RootPropertyPathName Name="Category" />
+    <RootPropertyPathName Name="SelectedCategory" />
+    <RootPropertyPathName Name="FilteredCategories" />
+    <RootPropertyPathName Name="SearchText" />
+    <RootPropertyPathName Name="AddCategoryCommand" />
+    <RootPropertyPathName Name="IsSelected" />
+    <RootPropertyPathName Name="PhotoThumbnails" />
+    <RootPropertyPathName Name="PhotoThumbnailSelectedCommand" />
+    <RootPropertyPathName Name="ThumbnailImageSideLength" />
+    <RootPropertyPathName Name="CategorySelectedCommand" />
+    <RootPropertyPathName Name="IsUserSignedIn" />
+    <RootPropertyPathName Name="TopCategories" />
+    <RootPropertyPathName Name="HeroImages" />
+    <RootPropertyPathName Name="SelectedHeroImage" />
+    <RootPropertyPathName Name="IsStatusContainerVisible" />
+    <RootPropertyPathName Name="IsEmptyDataMessageVisible" />
+    <RootPropertyPathName Name="CreateCategoryCommand" />
+    <RootPropertyPathName Name="CanProceed" />
+    <RootPropertyPathName Name="NextCommand" />
+    <RootPropertyPathName Name="RotateClockwiseCommand" />
+    <RootPropertyPathName Name="ServiceBaseUrl" />
+    <RootPropertyPathName Name="ThrowExceptionCommand" />
+    <RootPropertyPathName Name="UseStoreMock" />
+    <RootPropertyPathName Name="IsOn" />
+    <RootPropertyPathName Name="IsErrorSimulationEnabled" />
+    <RootPropertyPathName Name="UsePhotoDummyService" />
+    <RootPropertyPathName Name="IsServiceConnected" />
+    <RootPropertyPathName Name="MobileServices" />
+    <RootPropertyPathName Name="SelectedService" />
+    <RootPropertyPathName Name="CancelCommand" />
+    <RootPropertyPathName Name="AnnotationText" />
+    <RootPropertyPathName Name="HubSectionHeaderFontSize" />
+    <RootPropertyPathName Name="Leaderboard" />
+    <RootPropertyPathName Name="MostGoldCategories" />
+    <RootPropertyPathName Name="LeaderboardsControlWidthAndHeight" />
+    <RootPropertyPathName Name="MostGoldPhotos" />
+    <RootPropertyPathName Name="PhotoSelectedCommand" />
+    <RootPropertyPathName Name="MostGivingUsers" />
+    <RootPropertyPathName Name="MostGoldUsers" />
+    <RootPropertyPathName Name="Photos" />
+    <RootPropertyPathName Name="ImageMargin" />
+    <RootPropertyPathName Name="ImageWidth" />
+    <RootPropertyPathName Name="HasActiveStatus" />
+    <RootPropertyPathName Name="Status" />
+    <RootPropertyPathName Name="SetProfilePhotoCommand" />
+    <RootPropertyPathName Name="IsShowingCurrentUser" />
+    <RootPropertyPathName Name="DeletePhotoCommand" />
+    <RootPropertyPathName Name="ArePhotosEmpty" />
+    <RootPropertyPathName Name="PhotosCount" />
+    <RootPropertyPathName Name="Width" />
+    <RootPropertyPathName Name="Color" />
+    <RootPropertyPathName Name="EditPhotoCommand" />
+    <RootPropertyPathName Name="IsUserAbleToUpdatePhoto" />
+    <RootPropertyPathName Name="IsUserAbleToReportPhoto" />
+    <RootPropertyPathName Name="ReportPhotoCommand" />
+    <RootPropertyPathName Name="ReportReasons" />
+    <RootPropertyPathName Name="IsUserAbleToReportAnnotation" />
+    <RootPropertyPathName Name="ReportAnnotationCommand" />
+    <RootPropertyPathName Name="IsUserAbleToDeleteAnnotation" />
+    <RootPropertyPathName Name="DeleteAnnotationCommand" />
+    <RootPropertyPathName Name="Annotations" />
+    <RootPropertyPathName Name="SelectedAnnotation" />
+    <RootPropertyPathName Name="Text" />
+    <RootPropertyPathName Name="CreatedTime" />
+    <RootPropertyPathName Name="From" />
+    <RootPropertyPathName Name="Photo" />
+    <RootPropertyPathName Name="CanSetProfilePicture" />
+    <RootPropertyPathName Name="CancelSetProfileCommand" />
+    <RootPropertyPathName Name="IsSetProfilePhotoCanceled" />
+    <RootPropertyPathName Name="IsCurrentUsersPhoto" />
+    <RootPropertyPathName Name="CancelDeletePhotoCommand" />
+    <RootPropertyPathName Name="IsDeletePhotoCanceled" />
+    <RootPropertyPathName Name="SignOutCommand" />
+    <RootPropertyPathName Name="AboutCommand" />
+    <RootPropertyPathName Name="PrivacyCommand" />
+    <RootPropertyPathName Name="AuthenticationReassuranceMessage" />
+    <RootPropertyPathName Name="ChooseAuthProviderCommand" />
+    <RootPropertyPathName Name="ImageHeight" />
+    <RootPropertyPathName Name="IsHighlighted" />
+    <RootPropertyPathName Name="RefreshCommand" />
+    <RootPropertyPathName Name="ContributeCommand" />
+    <RootPropertyPathName Name="Comment" />
+    <RootPropertyPathName Name="ImageSource" />
+    <RootPropertyPathName Name="UploadCommand" />
+    <RootPropertyPathName Name="ChooseCategoryCommand" />
+    <RootPropertyPathName Name="SelectedInstructionItem" />
+    <RootPropertyPathName Name="InstructionItems" />
+    <RootPropertyPathName Name="ContentText" />
+    <RootPropertyPathName Name="TargetPage" />
+    <RootPropertyPathName Name="NavigateToTargetPageCommand" />
+    <RootPropertyPathName Name="HeaderText" />
+  </Roots.PropertyPathNames>
+  <Roots.RootTypes>
+    <RootType FullName="Windows.UI.Xaml.Application">
+      <RootProperty Name="RequestedTheme" />
+      <RootProperty Name="Resources" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.ResourceDictionary">
+      <RootProperty Name="MergedDictionaries" />
+      <RootProperty Name="Source" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.UserControl">
+      <RootProperty Name="Content" />
+      <RootProperty Name="Resources" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="VerticalContentAlignment" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="HorizontalContentAlignment" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="Children" />
+      <RootProperty Name="Resources" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="ColumnDefinitions" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="RowDefinitions" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="BorderBrush" />
+      <RootProperty Name="BorderThickness" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Transitions" />
+      <RootProperty Name="MinHeight" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="ChildrenTransitions" />
+      <RootProperty Name="Style" />
+      <RootMethod Name="GetColumn" />
+      <RootMethod Name="SetColumn" />
+      <RootMethod Name="GetRow" />
+      <RootMethod Name="SetRow" />
+      <RootMethod Name="GetColumnSpan" />
+      <RootMethod Name="SetColumnSpan" />
+      <RootMethod Name="GetRowSpan" />
+      <RootMethod Name="SetRowSpan" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Image">
+      <RootProperty Name="Stretch" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="Source" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="MaxHeight" />
+      <RootProperty Name="MaxWidth" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.Storyboard">
+      <RootProperty Name="Children" />
+      <RootProperty Name="AutoReverse" />
+      <RootMethod Name="GetTargetName" />
+      <RootMethod Name="SetTargetName" />
+      <RootMethod Name="GetTargetProperty" />
+      <RootMethod Name="SetTargetProperty" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.DoubleAnimation">
+      <RootProperty Name="From" />
+      <RootProperty Name="To" />
+      <RootProperty Name="Duration" />
+      <RootProperty Name="EasingFunction" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.CubicEase">
+      <RootProperty Name="EasingMode" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.Controls.AnimatedImage">
+      <RootProperty Name="PlaceHolder" />
+      <RootProperty Name="Source" />
+      <RootProperty Name="VerticalAlignment" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.ValueConverters.NullToVisibilityConverter" />
+    <RootType FullName="PhotoSharingApp.Universal.ValueConverters.BooleanToVisibilityConverter" />
+    <RootType FullName="Windows.UI.Xaml.VisualStateManager">
+      <RootMethod Name="GetVisualStateGroups" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Data.Binding">
+      <RootProperty Name="Path" />
+      <RootProperty Name="ElementName" />
+      <RootProperty Name="Converter" />
+      <RootProperty Name="ConverterParameter" />
+      <RootProperty Name="Mode" />
+      <RootProperty Name="UpdateSourceTrigger" />
+      <RootProperty Name="RelativeSource" />
+      <RootProperty Name="Source" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.StaticResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ColumnDefinition">
+      <RootProperty Name="Width" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Interactivity.Interaction">
+      <RootMethod Name="GetBehaviors" />
+      <RootMethod Name="SetBehaviors" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Viewbox">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Child" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.Controls.GoldButton">
+      <RootProperty Name="Content" />
+      <RootProperty Name="Command" />
+      <RootProperty Name="IsEnabled" />
+      <RootProperty Name="CommandParameter" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="IsTabStop" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="FontSize" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.LinearGradientBrush">
+      <RootProperty Name="EndPoint" />
+      <RootProperty Name="StartPoint" />
+      <RootProperty Name="GradientStops" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.GradientStop">
+      <RootProperty Name="Color" />
+      <RootProperty Name="Offset" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Interactions.Core.EventTriggerBehavior">
+      <RootProperty Name="EventName" />
+      <RootProperty Name="Actions" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Interactions.Core.InvokeCommandAction">
+      <RootProperty Name="Command" />
+      <RootProperty Name="CommandParameter" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.RowDefinition">
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
+      <RootProperty Name="MaxLines" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Text" />
+      <RootProperty Name="FontWeight" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="TextTrimming" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="TextWrapping" />
+      <RootProperty Name="TextAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="CharacterSpacing" />
+      <RootProperty Name="Resources" />
+      <RootProperty Name="Projection" />
+      <RootProperty Name="FontStyle" />
+      <RootProperty Name="FontFamily" />
+      <RootProperty Name="Style" />
+      <RootProperty Name="Inlines" />
+      <RootProperty Name="Visibility" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.Controls.UserProfilePictureControl">
+      <RootProperty Name="Source" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="ShowBorder" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Transitions" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.VisualStateGroup">
+      <RootProperty Name="States" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.VisualState">
+      <RootProperty Name="StateTriggers" />
+      <RootProperty Name="Setters" />
+      <RootProperty Name="Storyboard" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.AdaptiveTrigger">
+      <RootProperty Name="MinWindowWidth" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Setter">
+      <RootProperty Name="Target" />
+      <RootProperty Name="Value" />
+      <RootProperty Name="Property" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.Controls.FeaturedPhotoControl">
+      <RootProperty Name="DataContext" />
+      <RootProperty Name="PhotoSource" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="CaptionFontSize" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Border">
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="Child" />
+      <RootProperty Name="Transitions" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="BorderBrush" />
+      <RootProperty Name="BorderThickness" />
+      <RootProperty Name="FlowDirection" />
+      <RootProperty Name="MaxWidth" />
+      <RootProperty Name="MaxHeight" />
+      <RootProperty Name="MinWidth" />
+      <RootProperty Name="MinHeight" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="HorizontalAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.RelativePanel">
+      <RootProperty Name="Children" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="MaxWidth" />
+      <RootProperty Name="Width" />
+      <RootMethod Name="GetBelow" />
+      <RootMethod Name="SetBelow" />
+      <RootMethod Name="GetRightOf" />
+      <RootMethod Name="SetRightOf" />
+      <RootMethod Name="GetAlignHorizontalCenterWithPanel" />
+      <RootMethod Name="SetAlignHorizontalCenterWithPanel" />
+      <RootMethod Name="GetAlignRightWithPanel" />
+      <RootMethod Name="SetAlignRightWithPanel" />
+      <RootMethod Name="GetAlignLeftWithPanel" />
+      <RootMethod Name="SetAlignLeftWithPanel" />
+      <RootMethod Name="GetAlignTopWithPanel" />
+      <RootMethod Name="SetAlignTopWithPanel" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
+      <RootProperty Name="Orientation" />
+      <RootProperty Name="Children" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="ChildrenTransitions" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Button">
+      <RootProperty Name="Command" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="BorderThickness" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="IsTabStop" />
+      <RootProperty Name="MinWidth" />
+      <RootProperty Name="Style" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Template" />
+      <RootProperty Name="UseSystemFocusVisuals" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="CommandParameter" />
+      <RootProperty Name="Flyout" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.Controls.GoldPurchasePromptControl">
+      <RootProperty Name="Visibility" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.ValueConverters.RelativeTimeConverter" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ProgressRing">
+      <RootProperty Name="IsActive" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="HorizontalAlignment" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.Controls.HeroImageControl" />
+    <RootType FullName="PhotoSharingApp.Universal.ValueConverters.RankConverter" />
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.TransitionCollection" />
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.PopupThemeTransition" />
+    <RootType FullName="PhotoSharingApp.Universal.Controls.LeaderboardsUserControl">
+      <RootProperty Name="UserEntry" />
+      <RootProperty Name="NavigationCommand" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Imaging.BitmapImage">
+      <RootProperty Name="DecodePixelWidth" />
+      <RootProperty Name="DecodePixelHeight" />
+      <RootProperty Name="UriSource" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.Controls.LeaderboardsPhotoControl">
+      <RootProperty Name="PhotoEntry" />
+      <RootProperty Name="NavigationCommand" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.Controls.MyControl">
+      <RootProperty Name="Margin" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.Controls.LeaderboardsCategoryControl">
+      <RootProperty Name="CategoryEntry" />
+      <RootProperty Name="NavigationCommand" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Shapes.Rectangle">
+      <RootProperty Name="Fill" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Stroke" />
+      <RootProperty Name="StrokeThickness" />
+      <RootProperty Name="RenderTransform" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.DoubleAnimationUsingKeyFrames">
+      <RootProperty Name="KeyFrames" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.EasingDoubleKeyFrame">
+      <RootProperty Name="KeyTime" />
+      <RootProperty Name="Value" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.PlaneProjection">
+      <RootProperty Name="RotationX" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ContentPresenter">
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="ContentTemplate" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="FontWeight" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="FontFamily" />
+      <RootProperty Name="TextWrapping" />
+      <RootProperty Name="MaxLines" />
+      <RootProperty Name="ContentTransitions" />
+      <RootProperty Name="HorizontalContentAlignment" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="VerticalContentAlignment" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.Controls.PageHeader">
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="HeaderContent" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.Controls.SignInPromptControl">
+      <RootProperty Name="Visibility" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.Controls.UploadPhotoControl" />
+    <RootType FullName="Windows.UI.Xaml.Shapes.Ellipse">
+      <RootProperty Name="Fill" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Stroke" />
+      <RootProperty Name="StrokeThickness" />
+      <RootProperty Name="VerticalAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.SymbolIcon">
+      <RootProperty Name="Symbol" />
+      <RootProperty Name="Margin" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.ImageBrush">
+      <RootProperty Name="ImageSource" />
+    </RootType>
+    <RootType FullName="Windows.UI.Color" />
+    <RootType FullName="Windows.UI.Xaml.Media.SolidColorBrush">
+      <RootProperty Name="Color" />
+    </RootType>
+    <RootType FullName="System.Double" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Primitives.ToggleButton">
+      <RootProperty Name="TabIndex" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="Style" />
+      <RootProperty Name="IsChecked" />
+      <RootEvent Name="Unchecked" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Control">
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="FontFamily" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="HorizontalContentAlignment" />
+      <RootProperty Name="VerticalContentAlignment" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="UseSystemFocusVisuals" />
+      <RootProperty Name="Template" />
+      <RootProperty Name="FontWeight" />
+      <RootProperty Name="BorderThickness" />
+      <RootProperty Name="TabNavigation" />
+      <RootProperty Name="BorderBrush" />
+      <RootProperty Name="IsTabStop" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.FrameworkElement">
+      <RootProperty Name="MinHeight" />
+      <RootProperty Name="MinWidth" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="MaxWidth" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ContentControl">
+      <RootProperty Name="Content" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="IsHitTestVisible" />
+      <RootProperty Name="IsTabStop" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="ContentTemplate" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="FontFamily" />
+      <RootProperty Name="FontWeight" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="MaxHeight" />
+      <RootProperty Name="Template" />
+      <RootProperty Name="Tag" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Automation.AutomationProperties">
+      <RootMethod Name="GetName" />
+      <RootMethod Name="SetName" />
+      <RootMethod Name="GetAccessibilityView" />
+      <RootMethod Name="SetAccessibilityView" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ListViewItem" />
+    <RootType FullName="Windows.UI.Xaml.UIElement">
+      <RootProperty Name="IsHoldingEnabled" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.DataTemplate">
+      <RootProperty Name="Template" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.Controls.CropControl" />
+    <RootType FullName="Windows.UI.Xaml.Controls.FlipView">
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="MaxHeight" />
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="SelectedItem" />
+      <RootProperty Name="Style" />
+      <RootProperty Name="ItemTemplate" />
+      <RootProperty Name="Background" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ScrollViewer">
+      <RootProperty Name="HorizontalScrollMode" />
+      <RootProperty Name="HorizontalScrollBarVisibility" />
+      <RootProperty Name="IsTabStop" />
+      <RootProperty Name="IsHorizontalRailEnabled" />
+      <RootProperty Name="IsVerticalRailEnabled" />
+      <RootProperty Name="IsDeferredScrollingEnabled" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="VerticalScrollBarVisibility" />
+      <RootProperty Name="VerticalScrollMode" />
+      <RootProperty Name="ZoomMode" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="BringIntoViewOnFocusChange" />
+      <RootProperty Name="HorizontalSnapPointsType" />
+      <RootProperty Name="IsHorizontalScrollChainingEnabled" />
+      <RootProperty Name="IsVerticalScrollChainingEnabled" />
+      <RootProperty Name="TabNavigation" />
+      <RootProperty Name="VerticalSnapPointsType" />
+      <RootMethod Name="GetHorizontalScrollBarVisibility" />
+      <RootMethod Name="SetHorizontalScrollBarVisibility" />
+      <RootMethod Name="GetVerticalScrollBarVisibility" />
+      <RootMethod Name="SetVerticalScrollBarVisibility" />
+      <RootMethod Name="GetIsHorizontalRailEnabled" />
+      <RootMethod Name="SetIsHorizontalRailEnabled" />
+      <RootMethod Name="GetIsVerticalRailEnabled" />
+      <RootMethod Name="SetIsVerticalRailEnabled" />
+      <RootMethod Name="GetIsHorizontalScrollChainingEnabled" />
+      <RootMethod Name="SetIsHorizontalScrollChainingEnabled" />
+      <RootMethod Name="GetIsVerticalScrollChainingEnabled" />
+      <RootMethod Name="SetIsVerticalScrollChainingEnabled" />
+      <RootMethod Name="GetIsDeferredScrollingEnabled" />
+      <RootMethod Name="SetIsDeferredScrollingEnabled" />
+      <RootMethod Name="GetBringIntoViewOnFocusChange" />
+      <RootMethod Name="SetBringIntoViewOnFocusChange" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ItemsControl">
+      <RootProperty Name="ItemsPanel" />
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Resources" />
+      <RootProperty Name="ItemContainerTransitions" />
+      <RootProperty Name="Items" />
+      <RootProperty Name="IsTabStop" />
+      <RootProperty Name="ItemTemplate" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ControlTemplate">
+      <RootProperty Name="TargetType" />
+      <RootProperty Name="Template" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBox">
+      <RootProperty Name="SelectionHighlightColor" />
+      <RootProperty Name="PlaceholderText" />
+      <RootProperty Name="Text" />
+      <RootProperty Name="IsEnabled" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="MinHeight" />
+      <RootProperty Name="TextWrapping" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.TemplateBindingExtension" />
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.ObjectAnimationUsingKeyFrames">
+      <RootProperty Name="KeyFrames" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.DiscreteObjectKeyFrame">
+      <RootProperty Name="KeyTime" />
+      <RootProperty Name="Value" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Visibility" />
+    <RootType FullName="Windows.UI.Xaml.Controls.FontIcon">
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="FontFamily" />
+      <RootProperty Name="Glyph" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="UseLayoutRounding" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="MirroredWhenRightToLeft" />
+      <RootProperty Name="Visibility" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ItemsPresenter" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ItemsPanelTemplate">
+      <RootProperty Name="Template" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.VirtualizingStackPanel">
+      <RootProperty Name="AreScrollSnapPointsRegular" />
+      <RootProperty Name="Orientation" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.SwipeHintThemeAnimation">
+      <RootProperty Name="TargetName" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.PointerDownThemeAnimation">
+      <RootProperty Name="TargetName" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.PopInThemeAnimation">
+      <RootProperty Name="TargetName" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.PointerUpThemeAnimation" />
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.ContentThemeTransition">
+      <RootProperty Name="HorizontalOffset" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Canvas">
+      <RootProperty Name="Children" />
+      <RootMethod Name="GetLeft" />
+      <RootMethod Name="SetLeft" />
+      <RootMethod Name="GetTop" />
+      <RootMethod Name="SetTop" />
+      <RootMethod Name="GetZIndex" />
+      <RootMethod Name="SetZIndex" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Shapes.Path">
+      <RootProperty Name="Fill" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="Data" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.RectangleGeometry">
+      <RootProperty Name="Rect" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.GeometryGroup">
+      <RootProperty Name="Children" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.CompositeTransform">
+      <RootProperty Name="TranslateX" />
+      <RootProperty Name="TranslateY" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Primitives.ListViewItemPresenter">
+      <RootProperty Name="CheckBrush" />
+      <RootProperty Name="ContentMargin" />
+      <RootProperty Name="CheckMode" />
+      <RootProperty Name="ContentTransitions" />
+      <RootProperty Name="CheckBoxBrush" />
+      <RootProperty Name="DragForeground" />
+      <RootProperty Name="DragOpacity" />
+      <RootProperty Name="DragBackground" />
+      <RootProperty Name="DisabledOpacity" />
+      <RootProperty Name="FocusBorderBrush" />
+      <RootProperty Name="FocusSecondaryBorderBrush" />
+      <RootProperty Name="HorizontalContentAlignment" />
+      <RootProperty Name="PointerOverForeground" />
+      <RootProperty Name="PressedBackground" />
+      <RootProperty Name="PlaceholderBackground" />
+      <RootProperty Name="PointerOverBackground" />
+      <RootProperty Name="ReorderHintOffset" />
+      <RootProperty Name="SelectedPressedBackground" />
+      <RootProperty Name="SelectionCheckMarkVisualEnabled" />
+      <RootProperty Name="SelectedForeground" />
+      <RootProperty Name="SelectedPointerOverBackground" />
+      <RootProperty Name="SelectedBackground" />
+      <RootProperty Name="VerticalContentAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Page">
+      <RootProperty Name="Content" />
+      <RootProperty Name="TabNavigation" />
+      <RootProperty Name="Resources" />
+      <RootProperty Name="BottomAppBar" />
+      <RootEvent Name="KeyDown" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.EntranceThemeTransition">
+      <RootProperty Name="IsStaggeringEnabled" />
+      <RootProperty Name="FromVerticalOffset" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Documents.Run">
+      <RootProperty Name="Text" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.Views.AboutPage" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ToolTipService">
+      <RootMethod Name="GetToolTip" />
+      <RootMethod Name="SetToolTip" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.SplitView">
+      <RootProperty Name="DisplayMode" />
+      <RootProperty Name="OpenPaneLength" />
+      <RootProperty Name="IsTabStop" />
+      <RootProperty Name="Pane" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.Controls.NavMenuListView">
+      <RootProperty Name="TabIndex" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="ItemContainerStyle" />
+      <RootProperty Name="ItemTemplate" />
+      <RootEvent Name="ContainerContentChanging" />
+      <RootEvent Name="ItemInvoked" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Frame">
+      <RootProperty Name="ContentTransitions" />
+      <RootEvent Name="Navigated" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.NavigationThemeTransition">
+      <RootProperty Name="DefaultNavigationTransitionInfo" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.EntranceNavigationTransitionInfo" />
+    <RootType FullName="PhotoSharingApp.Universal.Views.AppShell" />
+    <RootType FullName="Windows.UI.Xaml.Controls.CommandBar">
+      <RootProperty Name="PrimaryCommands" />
+      <RootProperty Name="IsOpen" />
+      <RootProperty Name="IsSticky" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="ClosedDisplayMode" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.AppBarButton">
+      <RootProperty Name="Icon" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Command" />
+      <RootProperty Name="IsEnabled" />
+      <RootProperty Name="Label" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Flyout" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.CaptureElement">
+      <RootProperty Name="Stretch" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.Views.CameraPage" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ContentDialog">
+      <RootProperty Name="Title" />
+      <RootProperty Name="PrimaryButtonText" />
+      <RootProperty Name="SecondaryButtonText" />
+      <RootProperty Name="FullSizeDesired" />
+      <RootProperty Name="Template" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="Resources" />
+      <RootProperty Name="IsPrimaryButtonEnabled" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="PrimaryButtonCommand" />
+      <RootProperty Name="SecondaryButtonCommand" />
+      <RootProperty Name="TitleTemplate" />
+      <RootEvent Name="SecondaryButtonClick" />
+      <RootEvent Name="PrimaryButtonClick" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.ValueConverters.InverseBooleanConverter" />
+    <RootType FullName="PhotoSharingApp.Universal.ValueConverters.NullToBoolConverter" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ListView">
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="SelectedItem" />
+      <RootProperty Name="ItemTemplate" />
+      <RootProperty Name="IsItemClickEnabled" />
+      <RootProperty Name="SelectionMode" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="ItemContainerStyle" />
+      <RootProperty Name="IsTabStop" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.Views.CategoriesChooserDialog" />
+    <RootType FullName="PhotoSharingApp.Universal.Views.BasePage">
+      <RootProperty Name="Resources" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.ValueConverters.SelectedLegendItemToColorConverter" />
+    <RootType FullName="Windows.UI.Xaml.Controls.GridViewItem" />
+    <RootType FullName="Windows.UI.Xaml.Data.RelativeSource" />
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.AddDeleteThemeTransition" />
+    <RootType FullName="Windows.UI.Xaml.Controls.GridView">
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="SelectedItem" />
+      <RootProperty Name="ItemContainerStyle" />
+      <RootProperty Name="IsItemClickEnabled" />
+      <RootProperty Name="SelectionMode" />
+      <RootProperty Name="ItemTemplate" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="HorizontalAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ProgressBar">
+      <RootProperty Name="IsIndeterminate" />
+      <RootProperty Name="Visibility" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.StateTriggers.DeviceFamilyTrigger">
+      <RootProperty Name="DeviceFamily" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.Views.CategoriesPage" />
+    <RootType FullName="PhotoSharingApp.Universal.Views.CreateCategoryDialog" />
+    <RootType FullName="PhotoSharingApp.Universal.Views.CropPage" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ComboBox">
+      <RootProperty Name="IsEnabled" />
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="DisplayMemberPath" />
+      <RootProperty Name="SelectedItem" />
+      <RootProperty Name="HorizontalContentAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ToggleSwitch">
+      <RootProperty Name="IsOn" />
+      <RootProperty Name="Header" />
+      <RootProperty Name="IsEnabled" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Interactions.Core.DataTriggerBehavior">
+      <RootProperty Name="Binding" />
+      <RootProperty Name="Value" />
+      <RootProperty Name="Actions" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Interactions.Core.ChangePropertyAction">
+      <RootProperty Name="PropertyName" />
+      <RootProperty Name="Value" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.Views.DebugPage" />
+    <RootType FullName="PhotoSharingApp.Universal.Views.GiveGoldDialog" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Hub">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Sections" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.HubSection">
+      <RootProperty Name="Padding" />
+      <RootProperty Name="HeaderTemplate" />
+      <RootProperty Name="ContentTemplate" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.Views.LeaderboardsPage" />
+    <RootType FullName="PhotoSharingApp.Universal.ValueConverters.PhotoStatusToStringConverter" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Primitives.FlyoutBase">
+      <RootMethod Name="GetAttachedFlyout" />
+      <RootMethod Name="SetAttachedFlyout" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.HyperlinkButton">
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Command" />
+      <RootProperty Name="CommandParameter" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.Actions.OpenMenuFlyoutAction">
+      <RootProperty Name="IsEnabled" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.MenuFlyout">
+      <RootProperty Name="Items" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.MenuFlyoutItem">
+      <RootProperty Name="Text" />
+      <RootProperty Name="Command" />
+      <RootProperty Name="CommandParameter" />
+      <RootProperty Name="Visibility" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.Views.ProfilePage" />
+    <RootType FullName="PhotoSharingApp.Universal.ValueConverters.GoldValueToGaveGoldStringConverter" />
+    <RootType FullName="PhotoSharingApp.Universal.ValueConverters.EnumDisplayNameToStringConverter" />
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.ColorAnimation">
+      <RootProperty Name="Duration" />
+      <RootProperty Name="To" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Flyout">
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.Actions.CloseMenuFlyoutAction" />
+    <RootType FullName="PhotoSharingApp.Universal.Views.PhotoDetailsPage" />
+    <RootType FullName="PhotoSharingApp.Universal.Views.SettingsPage" />
+    <RootType FullName="PhotoSharingApp.Universal.ValueConverters.AuthProviderToStringConverter" />
+    <RootType FullName="PhotoSharingApp.Universal.Views.SignInPage" />
+    <RootType FullName="PhotoSharingApp.Universal.Views.StreamPage" />
+    <RootType FullName="PhotoSharingApp.Universal.Views.UploadPage" />
+    <RootType FullName="Windows.UI.Xaml.GridLength" />
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.EdgeUIThemeTransition">
+      <RootProperty Name="Edge" />
+    </RootType>
+    <RootType FullName="PhotoSharingApp.Universal.Views.WelcomePage" />
+  </Roots.RootTypes>
+</Roots>

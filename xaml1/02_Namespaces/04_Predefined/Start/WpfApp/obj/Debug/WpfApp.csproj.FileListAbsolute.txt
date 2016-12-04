@@ -1,0 +1,3 @@
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\WpfApp\bin\Debug\MainApp.exe.config
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\WpfApp\obj\Debug\MainApp.exe
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\04_Predefined\Start\WpfApp\obj\Debug\MainApp.pdb

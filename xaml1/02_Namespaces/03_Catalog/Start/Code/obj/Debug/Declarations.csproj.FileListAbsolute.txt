@@ -1,0 +1,1 @@
+C:\Courseware\Xaml01\Exercise Files\02_Namespaces\01_Declarations\Start\Code\bin\Debug\UnderstandNamespaces.exe.config
